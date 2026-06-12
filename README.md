@@ -36,7 +36,7 @@ Users can seamlessly obtain MUSD — Mezo's native Bitcoin-backed stablecoin —
 | Member | Role |
 |---|---|
 | **Nikhil Raikwar** | **Project Creator & Lead.** Full-stack development, smart contract engineering (Solidity/Foundry), system architecture, UI/UX design, XMTP integration, Goldsky subgraph, deployment infrastructure. The entire codebase, product concept, and technical vision originate from Nikhil. |
-| **Shivam Soni** | PPT presentation design and website marketing content / headline copy. |
+| **Shivam Soni** | Hackathon presentation support. |
 
 ---
 
@@ -275,9 +275,9 @@ Built for the **Mezo × Supernormal** hackathon — original work developed duri
 
 **Created by Nikhil Raikwar** — full product concept, architecture, smart contracts, frontend, XMTP integration, and Goldsky subgraph.
 
-Presentation design and website headline content by Shivam Soni.
+Hackathon presentation support by Shivam Soni.
 
-MIT © 2026 MezoPay Contributors — see [LICENSE](LICENSE).
+MIT © 2026 Nikhil Raikwar — see [LICENSE](LICENSE).
 
 ---
 

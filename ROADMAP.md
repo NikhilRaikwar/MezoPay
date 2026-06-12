@@ -182,4 +182,4 @@ The flywheel is simple: every time someone splits a bill with MezoPay, every non
 ---
 
 *MezoPay is original work developed during the Mezo × Supernormal hackathon by Nikhil Raikwar.*
-*MIT © 2026 MezoPay Contributors*
+*MIT © 2026 Nikhil Raikwar*

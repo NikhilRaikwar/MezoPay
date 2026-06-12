@@ -224,4 +224,4 @@ contracts/
 - [Mezo developer docs](https://mezo.org/docs/developers/)
 - [Subgraph](../subgraph/) — indexes registry + split + MUSD `Transfer` events
 
-MIT © 2026 MezoPay Contributors
+MIT © 2026 Nikhil Raikwar
